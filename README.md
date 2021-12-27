@@ -6,3 +6,4 @@
 - CSS
 - Normalize.css (https://necolas.github.io/normalize.css/)
 - SVG sprites — генератор SVG-спрайтов для иконок (https://svgsprit.es/)
+- Плагин слайдера на JavaScript (https://swiperjs.com/)
